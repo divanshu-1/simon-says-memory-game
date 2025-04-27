@@ -31,7 +31,7 @@ A fun and simple "Simon Says" memory game where you test your memory skills by f
 
 ## 📸 Demo
 
-Check out the live game here 👉 [Simon Says Game Live](https://your-username.github.io/simon-says-memory-game/)
+Check out the live game here 👉 [Simon Says Game Live](https://divanshu-1.github.io/simon-says-memory-game/)
 
 ---
 
