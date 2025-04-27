@@ -59,11 +59,11 @@ function checkAns(idx){
         document.body.classList.add("shake");
         setTimeout(() => {
         document.body.classList.remove("shake");
-        }, 380);
-        document.querySelector("body").style.backgroundColor = "red";
+        }, 350);
+        document.querySelector("body").style.background = "red";
         setTimeout(function(){
-            document.querySelector("body").style.backgroundColor = "white";
-        },250);
+            document.querySelector("body").style.background = "radial-gradient(circle at center, #eeece9 0%, #7dc2d1 80%)";
+        },275);
         reset();
     }
 }
