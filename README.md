@@ -29,6 +29,10 @@ A fun and simple "Simon Says" memory game where you test your memory skills by f
 - Save the highest score using localStorage
 - Add difficulty modes (easy, medium, hard)
 
+## 📸 Demo
+
+Check out the live game here 👉 [Simon Says Game Live](https://your-username.github.io/simon-says-memory-game/)
+
 ---
 
 Made with ❤️ by Divanshu Arora
